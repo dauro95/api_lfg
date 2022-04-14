@@ -83,3 +83,23 @@ Una vez iniciada la aplicación con `... runserver`
 
 ## 6. Evidencias consecución
 [⬆ Volver al índice](#tabla-de-contenido)
+
+![image](https://user-images.githubusercontent.com/77200841/163490359-5a52a5f4-1922-4c2d-8fb1-856ef8619081.png)
+![image](https://user-images.githubusercontent.com/77200841/163490374-d3e4410c-2176-40f3-9e9e-634e8ad3d789.png)
+![image](https://user-images.githubusercontent.com/77200841/163490397-37b194ae-5988-4d00-a4e4-3c0ff71ca496.png)
+![image](https://user-images.githubusercontent.com/77200841/163490406-887d6e4f-391a-4c20-848d-d22cfba7bb8a.png)
+![image](https://user-images.githubusercontent.com/77200841/163490421-72597d7b-3357-4b94-b0c9-85ebc9a1cb66.png)
+![image](https://user-images.githubusercontent.com/77200841/163490434-378bd4a1-0dee-42ad-84fc-581a3a01798b.png)
+![image](https://user-images.githubusercontent.com/77200841/163490444-a2440589-fe92-43a3-a62f-2755650dafce.png)
+
+
+
+
+
+
+
+
+
+
+
+
